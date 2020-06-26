@@ -9,3 +9,7 @@ informations are as follws:
 3] Analysing_Tweets.py is a python file to analyse each and every tweets and giving sentient values to these tweets.
 4] Analysis.txt contains all sentiment vales of 1000 tweets and total vales are also given at the end
 5] Covid.r is R programming file to collect the tweets from twitter(optional file)
+6] wordcloud.py is a file to create wordcloud 
+7] designed_wordcloud.py is for designed wordcloud by using logo.png file
+8] Figure_3.png is a actual wordcloud of mostly used words
+9] Figure_1.png is a designed wordcloud

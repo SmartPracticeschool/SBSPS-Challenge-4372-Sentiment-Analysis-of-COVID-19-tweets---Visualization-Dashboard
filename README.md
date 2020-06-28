@@ -13,3 +13,9 @@ informations are as follws:
 7] designed_wordcloud.py is for designed wordcloud by using logo.png file
 8] Figure_3.png is a actual wordcloud of mostly used words
 9] Figure_1.png is a designed wordcloud
+10] Bar_graph.png is graphical representaion of sentiments on bar graph
+11] Bargrph is a python programming file to design a bar graph
+12] graph_analysis.png is analysis on sentiments with 3different graphs
+13] 3graph is a python programming file to represent 3 different graphs
+14] piechart.png is representaion of sentiments on pie chart
+15] piechart is a python programming file to design pie chart

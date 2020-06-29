@@ -8,7 +8,7 @@ from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 file = open('data.txt','r')
 text = file.read()
 
-wordcloud = WordCloud().generate(text)
+wordcloud = WordCloud().generate(text)#install library wordcloud if dont have it
 
 plt.figure() 
 plt.imshow(wordcloud, interpolation='bilinear')

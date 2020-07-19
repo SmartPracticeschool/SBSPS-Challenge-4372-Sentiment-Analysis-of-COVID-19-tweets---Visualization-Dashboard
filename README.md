@@ -19,5 +19,5 @@ informations are as follws:
 13] 3graph is a python programming file to represent 3 different graphs
 14] piechart.png is representaion of sentiments on pie chart
 15] piechart is a python programming file to design pie chart
-16] visit our website http://3.128.201.240/
+16] visit our website http://18.222.217.193/
 ![alt text](https://github.com/SmartPracticeschool/SBSPS-Challenge-4372-Sentiment-Analysis-of-COVID-19-tweets---Visualization-Dashboard/blob/master/Dashboard/GUI/Capture.JPG?raw=true)
